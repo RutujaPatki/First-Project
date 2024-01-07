@@ -1,3 +1,3 @@
 # First-Project
 This is my first Git repository.
-Author:Rutuja Patki
+Author:Rutuja Patki Project
